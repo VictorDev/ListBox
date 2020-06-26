@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WpfApp3">
+    <DataTemplate x:Key="studentDataTemplate" DataType="{x:Type local:Student}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Name:" VerticalAlignment="Top" FontWeight="Bold"/>
+            <TextBox Grid.Column="1" Text="{Binding Path=Name}" VerticalAlignment="Top" IsReadOnly="False"/>
+        </Grid>
+    </DataTemplate>
+
+</ResourceDictionary>

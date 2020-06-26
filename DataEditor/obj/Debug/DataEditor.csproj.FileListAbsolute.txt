@@ -1,0 +1,38 @@
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\bin\Debug\WpfApp3.exe.config
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\bin\Debug\WpfApp3.exe
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\bin\Debug\WpfApp3.pdb
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\DataEditor.csprojAssemblyReference.cache
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\NewStudent.g.cs
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\Window1.g.cs
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\App.g.cs
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\DataTemplate.baml
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\NewStudent.baml
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\Window1.baml
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\WpfApp3.g.resources
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\DataEditor.csproj.GenerateResource.cache
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\DataEditor.csproj.CoreCompileInputs.cache
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\WpfApp3.exe
+C:\Users\vlado\Desktop\программы\C#\WPFLab10\DataEditor\obj\Debug\WpfApp3.pdb
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\bin\Debug\WpfApp3.exe.config
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\bin\Debug\WpfApp3.exe
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\bin\Debug\WpfApp3.pdb
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\DataEditor.csprojAssemblyReference.cache
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\NewStudent.g.cs
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\Window1.g.cs
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\App.g.cs
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\DataTemplate.baml
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\NewStudent.baml
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\Window1.baml
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\WpfApp3.g.resources
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\DataEditor.csproj.GenerateResource.cache
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\DataEditor.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\WpfApp3.exe
+C:\Users\Виктор\Downloads\Новая папка (39)\Lab10-master\DataEditor\obj\Debug\WpfApp3.pdb
